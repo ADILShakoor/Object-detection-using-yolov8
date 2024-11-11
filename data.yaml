@@ -1,0 +1,18 @@
+path: C:/Users/DELL/Desktop/yolov_classi04/Dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+
+names:
+- Apple
+- Banana
+- Grape
+- Orange
+- Pineapple
+- Watermelon
+
+# test: E:\DL\attempt1\attempt3\datasets\Fruits-detection-1\test\images
+# train: E:\DL\attempt1\attempt3\datasets\Fruits-detection-1\train\images
+# val: E:\DL\attempt1\attempt3\datasets\Fruits-detection-1\valid\images
