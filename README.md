@@ -131,18 +131,11 @@ Probability: 0.90
 ![val_batch0_pred](https://github.com/user-attachments/assets/6118736f-2515-4053-a988-c8813d6240ed)
 ![val_batch0_labels](https://github.com/user-attachments/assets/d5ad63c0-bf55-465f-92bc-8295077f7309)
 ![train_batch4502](https://github.com/user-attachments/assets/5c700cf9-ef13-4643-96d9-67e5ee9ac464)![val_batch2_pred](https://github.com/user-attachments/assets/095ed727-0cf2-4b44-a559-77bcb14e0459)
-
 ![train_batch4501](https://github.com/user-attachments/assets/2086cc4f-7f91-4bd0-85c3-9cf0984d6ec1)
 ![train_batch4500](https://github.com/user-attachments/assets/ab6c3c6e-ee21-4381-9f44-93db6f416c58)
 ![train_batch2](https://github.com/user-attachments/assets/4961e25f-56be-4c85-979e-632453d96999)
 ![train_batch1](https://github.com/user-attachments/assets/59a7767d-527b-4bd4-b4fe-49f36dab33cb)
 ![train_batch0](https://github.com/user-attachments/assets/0a403e4f-fe92-447f-a3d0-7283124b135f)
-
-
-- - **Prediction Images**:
-  - ![test03](https://github.com/user-attachments/assets/8c56e201-8565-4a7b-8366-d9205a530f09)
-![test02](https://github.com/user-attachments/assets/7c785fb2-0474-421e-bf04-66d6063922cd)
-![test01](https://github.com/user-attachments/assets/278fefc2-3005-4bc9-99df-251522a716d1)
 
 
 ## License
